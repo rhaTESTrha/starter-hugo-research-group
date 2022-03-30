@@ -26,7 +26,7 @@ education:
         Science  | Florida Atlantic University
       year: ""
     - course: "Research Affiliate "
-      institution: Center for Biodiversity Research | Data Science Initiative|
+      institution: Center for Biodiversity Research | Data Science Initiative |
         University of Memphis
       year: ""
 superuser: true
