@@ -1,7 +1,7 @@
 ---
 title: Rich Adams
 role: Assistant Professor of Bioinformatics
-avatar_filename: 1.jpg
+avatar_filename: avatar.jpg
 bio: XXX
 interests:
   - Data Science
