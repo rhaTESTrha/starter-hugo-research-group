@@ -2,7 +2,10 @@
 title: Rich Adams
 role: Assistant Professor of Bioinformatics
 avatar_filename: avatar.jpg
-bio: XXX
+bio: "I am a broadly trained statistical geneticist and data scientist with
+  research in statistical population genetics, mathematical & algorithmic
+  phylogenomics, computational/functional genomics, and artificial
+  intelligence-driven applications in genetics. "
 interests:
   - Data Science
   - Statistical Genomics
