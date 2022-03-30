@@ -22,7 +22,8 @@ education:
       institution: University of Texas, Arlington
       year: 2019
     - course: Postdoctoral Fellow
-      institution: Florida Atlantic University
+      institution: Department of Computer and Electrical Engineering & Computer
+        Science  | Florida Atlantic University
       year: ""
     - course: "Research Affiliate "
       institution: University of Memphis
