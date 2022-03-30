@@ -21,6 +21,12 @@ education:
     - course: PhD in Quantitative Biology
       institution: University of Texas, Arlington
       year: 2019
+    - course: Postdoctoral Fellow
+      institution: Florida Atlantic University
+      year: ""
+    - course: "Research Affiliate "
+      institution: University of Memphis
+      year: ""
 superuser: true
 user_groups:
   - Researchers
