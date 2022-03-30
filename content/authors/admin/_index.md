@@ -4,9 +4,9 @@ role: Assistant Professor of Bioinformatics
 avatar_filename: 1.jpg
 bio: XXX
 interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+  - Data Science
+  - Statistical Genomics
+  - Population
 social: []
 organizations:
   - name: Georgia College & State University
