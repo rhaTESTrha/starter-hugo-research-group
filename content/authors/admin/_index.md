@@ -6,7 +6,9 @@ bio: XXX
 interests:
   - Data Science
   - Statistical Genomics
-  - Population
+  - Population Genetics
+  - Mathematical & Algorithmic Phylogenetics
+  - Functional Genomics
 social: []
 organizations:
   - name: Georgia College & State University
