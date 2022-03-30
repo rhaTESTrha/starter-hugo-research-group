@@ -1,5 +1,7 @@
 ---
+title: Rich Adams
 role: Assistant Professor of Bioinformatics
+avatar_filename: 1.jpg
 bio: XXX
 interests:
   - Artificial Intelligence
@@ -18,7 +20,6 @@ superuser: true
 user_groups:
   - Researchers
 highlight_name: false
-title: Rich Adams
 email: radamsrha@gmail.com
 ---
 XXX
