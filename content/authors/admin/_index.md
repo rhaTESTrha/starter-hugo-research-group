@@ -24,4 +24,4 @@ user_groups:
 highlight_name: false
 email: radamsrha@gmail.com
 ---
-XXX
+“Big Data” is transforming our understanding of genetic variation across chromosomes, individuals, populations, and species. My research seeks to understand these drivers of this variation using new statistical frameworks and computational algorithms for solving big questions in biology using diverse “omics”-scale data. A major goal of my work illuminating drivers of genomic novelty, innovation, and functional coevolution of quantitative traits (e.g., gene expression) in agricultural pests (e.g., herbivorous weevils). To tackle these questions, we develop efficient and effective statistical frameworks for deriving meaningful conclusions and predictions about processes that generate genomic diversity.
